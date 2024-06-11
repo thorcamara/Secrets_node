@@ -1,7 +1,7 @@
 # Secrets_node
 <br>
 <br>
-[ENG] Secrets application using Node.
+[ENG] Secrets application using Node and EJS.
 <br>
 <br>
 • Instructions
@@ -44,7 +44,7 @@ http://localhost:3000
 <br>
 <hr>
 <br>
-[PT-BR] Aplicativo de Segredos usando Node.
+[PT-BR] Aplicativo de Segredos usando Node e EJS.
 <br>
 <br>
 <br>
